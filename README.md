@@ -35,4 +35,4 @@
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
 
-![snake gif](https://github.com/GUTOFAR1AS/GUTOFAR1AS/blob/output/github-contribution-grid-snake.svg)
+
